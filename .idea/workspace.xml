@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ac79b4b4-a46e-4284-b745-3745606cce8d" name="默认的" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/base.html" afterPath="$PROJECT_DIR$/templates/base.html" />
-    </list>
+    <list default="true" id="ac79b4b4-a46e-4284-b745-3745606cce8d" name="默认的" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -127,8 +125,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="529" />
-    <option name="y" value="506" />
+    <option name="x" value="476" />
+    <option name="y" value="248" />
     <option name="width" value="1255" />
     <option name="height" value="1067" />
   </component>
@@ -238,7 +236,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="529" y="506" width="1255" height="1067" extended-state="1" />
+    <frame x="476" y="248" width="1255" height="1067" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30439562" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
